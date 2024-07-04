@@ -1,4 +1,29 @@
-b
+.fst
 {
-    
+    color: white;
+    text-align:center;
+    /* margin: 80px 4px 4px 4px; */
+     padding: 300px 0px 60px 0px; 
+    background-image: url("shuvo/sikorHHF.jpg");
+    background-size: cover;
+    width: 100%;
+    height: auto;
+
+}
+#B
+{
+    color: brown;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.snd
+{
+    margin: 10px 0px 0px 400px;
+    padding: 10px 0px 0px 60px;
+    border: 2px solid;
+    background-size: cover;
+    width: 40%;
+    height: auto;
 }
